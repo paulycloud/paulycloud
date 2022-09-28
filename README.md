@@ -2,7 +2,7 @@
 
 # Hey, It's Paul Kamau 👋
 
-I'm a certified Google and AWS Cloud Solutions Architect, a Full-stack Web Engineer specializing in Laravel , and the Creator of over 10+ SaaS products.
+I'm Paul. I'm a Technical Account Manager Consultant at [Google](https://www.google.com), with a specialty in AI & ML, a certified Google and AWS Cloud Solutions Architect, a Full-stack Web Engineer specializing in Laravel, and the Creator of over 10+ SaaS products.
 
 I love experimenting with new technologies and building small projects.
 
