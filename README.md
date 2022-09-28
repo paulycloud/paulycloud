@@ -1,4 +1,4 @@
-<!-- ![](https://github.com/paulycloud/paulycloud/blob/main/assets/photo.jpg) -->
+![](https://github.com/paulycloud/paulycloud/blob/main/assets/github_portrait.jpg)
 
 # Hey, It's Paul Kamau 👋
 
