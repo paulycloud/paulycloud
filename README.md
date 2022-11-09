@@ -15,13 +15,12 @@ I love experimenting with new technologies and building small projects.
 _Let's connect and chat! Open to anyone on Earth under the Sun and Moon._
 
 #### All My Links
-<a href="https://bio.link/paulkamau">
-    <img src="https://cdn.bio.link/uploads/profile_pictures/2022-10-19/tyMnbLx5soQjfXVyduPo3pXQofkAqoYM.png" alt="biolink"> bio.link/paulkamau
-</a>
+[BioLink](https://bio.link/paulkamau)
+
 
 #### Buy Me Coffee
-<a href="https://cash.app/$paulykcloud">
-    <img src="https://paulkamau.com/public/assets/images/coffee/cup.jpg" alt="cashapp logo"> Buy Me Coffee
-</a>
+[Cashapp](https://bio.link/paulkamau)
+[PayPal](https://paypal.me/paulkamau)
+
 
 [![](https://github.com/paulycloud/paulycloud/blob/main/assets/twitter.png)](https://twitter.com/paulycloud) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/linkedin.png)](https://www.linkedin.com/in/paulmkamau/) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/insta.png)](https://www.instagram.com/paulycloud) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/behance.png)](https://www.behance.net/paulycloud) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/dribbble.png)](https://dribbble.com/paulycloud) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/facebook.png)](https://www.facebook.com/paul.m.kamau.3/) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/github.png)](https://github.com/paulycloud) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/medium.png)](https://medium.com/@paulkamau) [![](https://github.com/paulycloud/paulycloud/blob/main/assets/dev.png)](https://dev.to/paulycloud)
