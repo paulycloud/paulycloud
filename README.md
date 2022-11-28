@@ -10,6 +10,10 @@ I love experimenting with new technologies and building small projects.
 - ✍️ Building and growing in Google Cloud Platform.
 - ☀️ Learning and Developing new products with Laravel Framework.
 
+
+## Check out my [ML Portfolio](https://github.com/paulycloud/ml_portfolio)
+
+
 --------------------------------------------------------------------------------
 
 _Let's connect and chat! Open to anyone on Earth under the Sun and Moon._
