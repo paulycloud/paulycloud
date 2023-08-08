@@ -1,5 +1,3 @@
-![](https://github.com/paulycloud/paulycloud/blob/main/assets/github_portrait.jpg)
-
 # Hey, It's Paul Kamau 👋
 
 I'm Paul. I'm a Technical Account Manager Consultant at [Google](https://www.google.com), with a specialty in AI & ML, a certified Google and AWS Cloud Solutions Architect, a Full-stack Web Engineer specializing in Laravel, and the Creator of over 10+ SaaS products.
